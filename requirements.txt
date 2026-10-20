@@ -1,9 +1,0 @@
-  streamlit
-  pandas
-  numpy
-  scikit-learn
-  imbalanced-learn
-  Sastrawi
-  wordcloud
-  seaborn
-  matplotlib
